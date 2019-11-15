@@ -1,0 +1,11 @@
+{
+  "name": "express-es6-chart-js-demo",
+  "version": "1.0.0",
+  "description": "---\r -  [LIVE DEMO](https://cryptic-badlands-19621.herokuapp.com/) - (Heroku)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
